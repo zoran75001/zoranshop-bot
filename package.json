@@ -1,0 +1,12 @@
+{
+  "name": "zoranshop-bot",
+  "version": "1.0.0",
+  "description": "ZoranShop Telegram Bot - Sneaker Shop",
+  "main": "zoranshop-bot.js",
+  "scripts": {
+    "start": "node zoranshop-bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
